@@ -6209,8 +6209,9 @@
   body {
     -webkit-font-smoothing: none;
     background: url('../img/clear-logo.png') ;
-    height : 100% ; 
-    width : 100% ;
+    width: auto\9;
+    height: auto;
+    max-width: 100%;
   }
   
   .navbar {

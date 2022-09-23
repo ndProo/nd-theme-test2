@@ -6208,7 +6208,7 @@
 
   body {
     -webkit-font-smoothing: none;
-    background: no-repeat center/100%  url('../img/clear-logo.png') ;
+    background: url('../img/clear-logo.png') center/cover no-repeat ;
   }
   
   .navbar {

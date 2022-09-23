@@ -6207,10 +6207,17 @@
 
 
   body {
-    -webkit-font-smoothing: none;
-    background: url('../img/logo.png') ;
+/*-webkit-font-smoothing: none;*/
+    background: url('../img/clear-logo.png') ;
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
-  }
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    height:100%;
+
+    }
 /*
   .wrapper{
     background: url('../img/clear-logo.png') no-repeat   center center fixed;

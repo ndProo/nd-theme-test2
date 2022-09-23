@@ -6204,10 +6204,11 @@
             animation: blink 1s linear infinite;
   }
    
-  
+
+
   body {
     -webkit-font-smoothing: none;
-    background: no-repeat center/80%  url('../img/clear-logo.png') ;
+    background: no-repeat center  url('../img/clear-logo.png') ;
   }
   
   .navbar {
